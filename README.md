@@ -26,7 +26,7 @@
 ---
 
 ### 📫 How to reach me:
-- Email: [ronilmaharjan12@example.com](mailto:ronilmaharjan12@example.com)
+- Email: [ronilmaharjan12@example.com](mailto:ronilmaharjan12@gmail.com)
 - LinkedIn: [https://linkedin.com/in/ronilmaharjan](https://www.linkedin.com/in/ronil-maharjan-8aa5a1284/)
 
 ⚡ **Fun Fact:** I use Neovim cuz i like macros go brrrr 
